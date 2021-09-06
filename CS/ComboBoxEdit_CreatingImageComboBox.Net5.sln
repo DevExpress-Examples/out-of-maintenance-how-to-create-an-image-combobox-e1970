@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxEdit_CreatingImageComboBox", "ComboBoxEdit_CreatingImageComboBox\ComboBoxEdit_CreatingImageComboBox.csproj", "{07781DA4-E518-4BED-A337-AE55629B7A47}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxEdit_CreatingImageComboBox", "ComboBoxEdit_CreatingImageComboBox\ComboBoxEdit_CreatingImageComboBox.Net5.csproj", "{07781DA4-E518-4BED-A337-AE55629B7A47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
